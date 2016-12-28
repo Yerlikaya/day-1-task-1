@@ -9,6 +9,4 @@ git commit -m "açıklama" ile depoya eklendi
 
 git push origin master ile dalımızı master ile değiştirdik
 
-git remote add origin <sunucu> ekledik
-
- git push -u origin master ile sunucuya ekledik
+git push -u origin master ile sunucuya ekledik
